@@ -1,0 +1,19 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000088;
+  background-color: rgba(200, 255, 200, 0.5)
+}
+
+#doctor-von-cuddles {
+  border:10px solid #3300ff;
+}
+
+.bear-list {
+  display: flex;
+}
+
+.bear-box {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+}
